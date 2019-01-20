@@ -27,7 +27,6 @@ public class MainActivity extends AppCompatActivity implements MyFAdapter.GoodsC
     @BindView(R.id.sum)
     TextView mysum;
     private List<MyCar> data1;
-
     @BindView(R.id.f_recycler)
     RecyclerView fRecycler;
     @BindView(R.id.f_check)
